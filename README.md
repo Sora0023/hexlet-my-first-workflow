@@ -1,2 +1,3 @@
 # hexlet-my-first-workflow
-hexlet-my-first-workflow
+
+[![show-directory](https://github.com/Sora0023/hexlet-my-first-workflow/actions/workflows/show-directory.yml/badge.svg)](https://github.com/Sora0023/hexlet-my-first-workflow/actions/workflows/show-directory.yml)
