@@ -1,0 +1,9 @@
+name: show-directory
+
+on: push
+jobs:
+  mybuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@4
+      - run: make say-hello
